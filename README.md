@@ -1,2 +1,2 @@
 # functions
-functions in C++
+functions in C++, for beginners ;)
